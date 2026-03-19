@@ -1,4 +1,4 @@
-## Hey there!
+## Olá!
 
 🇧🇷
 Sou estudante de Ciências da Computação, ainda estou aprendendo os pilares da programação.
@@ -10,6 +10,8 @@ Futuramente, planejo postar mais projetos próprios aqui.
 Tenho muitas ideia pra colocar em prática e muito a aprender e desenvolver.
 
 Ah, e sou fluente em inglês desde os meus 15.
+
+## Hey There!
 
 🇺🇸
 I'm a Computer Science student, and i'm still learning the basics of programming.
