@@ -3,7 +3,7 @@
 🇧🇷
 Sou estudante de Ciências da Computação, ainda estou aprendendo os pilares da programação.
 
-Estou procurando evoluir na área do FrontEnd, estou fazendo cursos de HTML5, CSS3, JS e outros.
+Estou procurando evoluir na área do FrontEnd e BackEnd, estou fazendo cursos de HTML5, CSS3, Java, PostgreSQL entre outros.
 
 Futuramente, planejo postar mais projetos próprios aqui.
 
@@ -16,7 +16,7 @@ Ah, e sou fluente em inglês desde os meus 15.
 🇺🇸
 I'm a Computer Science student, and i'm still learning the basics of programming.
 
-I'm looking to evolve my abilities in FrontEnd, I'm studying through courses, HTML5, CSS3, JS and others.
+I'm looking to evolve my abilities in FrontEnd and BackEnd, I'm studying through courses, HTML5, CSS3, Java, PostreSQL and others.
 
 In the future, I plan posting more projects and ideas here.
 
